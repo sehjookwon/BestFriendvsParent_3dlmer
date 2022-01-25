@@ -2,8 +2,8 @@
 
 File Descriptions:
 
-AdaptiveRiskTaking.sh: 
-Changes in adaptive risk taking (risky decision-making with parametric modulator that represents the expected value of reward) for best friend versus parent from 6th to 9th grade. Outputs of this script lives in AdaptiveRiskTaking.zip.
+AdaptiveVicariousRiskTaking: 
+Changes in adaptive risk taking (risky decision-making with parametric modulator that represents the expected value of reward) for best friend versus parent from 6th to 9th grade. Script and output can be found in AdaptiveVicariousRiskTaking.zip.
 
-GeneralRiskTaking.sh:
-Changes in general risk taking (risky decision-making) for best friend versus parent from 6th to 9th grade. Outputs of this script lives in GeneralRiskTaking.zip.
+GeneralVicariousRiskTaking:
+Changes in general risk taking (risky decision-making) for best friend versus parent from 6th to 9th grade. Script and output can be found in GeneralVicariousRiskTaking.zip.
