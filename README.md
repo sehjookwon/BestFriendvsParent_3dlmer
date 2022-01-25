@@ -1,4 +1,4 @@
-# Longitudinal_BestFriendvsParent_3dlmer
+# BestFriendvsParent_3dlmer
 
 File Descriptions:
 
